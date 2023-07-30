@@ -1,0 +1,4 @@
+# Exclude the below folders aND Files
+.vs
+bin
+obj
